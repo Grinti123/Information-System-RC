@@ -240,6 +240,7 @@ body {
     flex: 1 1 45rem;
     padding: 5rem 2rem;
     text-align: center;
+    border-radius: 0.5rem;
 }
 
 .contact .row form .input-group {
@@ -249,6 +250,7 @@ body {
     background-color: var(--bg);
     border: 1px solid #eee;
     padding-left: 2rem;
+    border-radius: 0.5rem;
 }
 
 .contact .row form .input-group input {
@@ -257,6 +259,7 @@ body {
     font-size: 1.7rem;
     background: none;
     color: #fff;
+    border-radius: 0.5rem;
 }
 
 .contact .row form .btn {
@@ -267,6 +270,7 @@ body {
     color: #fff;
     background-color: var(--primary);
     cursor: pointer;
+    border-radius: 0.5rem;
 }
 
 footer {
